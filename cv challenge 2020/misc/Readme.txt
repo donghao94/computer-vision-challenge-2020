@@ -70,7 +70,6 @@ Usage 2: Use GUI
  |      +--ResizeVideo.m
  |      +--SaveMovie.m
  |   +--misc
- |      +--doku-G06.pdf
  |      +--Readme.txt
  |   +--GUI
  |      +--start_gui.mlapp
